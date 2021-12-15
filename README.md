@@ -19,4 +19,4 @@ Now it's time to deploy.
 
 For this, let's add a homepage to package.json. Let's add git remote set-url as origin. Then let's add the predeploy and deploy commands to the scripts. Now let's do npm install gh-pages --save-dev. Now let's perform the build and then deploy operations. That is all.
 
-See you in the next app. Goodbye! Stay with the code.
+See you in the next app. Goodbye! Stay with the code...
