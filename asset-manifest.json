@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/03-reviews-app/static/css/main.2afbccfb.chunk.css",
+    "main.js": "/03-reviews-app/static/js/main.97f09661.chunk.js",
+    "main.js.map": "/03-reviews-app/static/js/main.97f09661.chunk.js.map",
+    "runtime-main.js": "/03-reviews-app/static/js/runtime-main.fc0c7672.js",
+    "runtime-main.js.map": "/03-reviews-app/static/js/runtime-main.fc0c7672.js.map",
+    "static/js/2.76f1ffb3.chunk.js": "/03-reviews-app/static/js/2.76f1ffb3.chunk.js",
+    "static/js/2.76f1ffb3.chunk.js.map": "/03-reviews-app/static/js/2.76f1ffb3.chunk.js.map",
+    "static/js/3.1dd98588.chunk.js": "/03-reviews-app/static/js/3.1dd98588.chunk.js",
+    "static/js/3.1dd98588.chunk.js.map": "/03-reviews-app/static/js/3.1dd98588.chunk.js.map",
+    "index.html": "/03-reviews-app/index.html",
+    "static/css/main.2afbccfb.chunk.css.map": "/03-reviews-app/static/css/main.2afbccfb.chunk.css.map",
+    "static/js/2.76f1ffb3.chunk.js.LICENSE.txt": "/03-reviews-app/static/js/2.76f1ffb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0c7672.js",
+    "static/js/2.76f1ffb3.chunk.js",
+    "static/css/main.2afbccfb.chunk.css",
+    "static/js/main.97f09661.chunk.js"
+  ]
+}
