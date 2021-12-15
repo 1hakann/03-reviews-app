@@ -1,4 +1,4 @@
-React project 3: Review This project deploy here Review App: https://1hakann.github.io/03-review-app/
+React project 3: Review This project deploy here Review App: https://1hakann.github.io/03-reviews-app/
 
 To clone the project git clone https://github.com/1hakann/03-review-app.git In the project directory, you can run: npm run start Node must be installed to run the project.
 
